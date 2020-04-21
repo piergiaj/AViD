@@ -10,6 +10,8 @@ The collected videos have a creative-commons license, allowing us to create and 
 ### Anonymized 
 All the faces in the videos have been blurred so that no person can be identified.
 
+<img src="https://github.com/piergiaj/AViD/raw/master/tractor.gif" alt="Driving Tractor" width=180> <img src="https://github.com/piergiaj/AViD/raw/master/ice_climb.gif"  alt="Ice Climb"> <img src="https://github.com/piergiaj/AViD/raw/master/shake_head.gif" alt="Shake Head" width=180> <img src="https://github.com/piergiaj/AViD/raw/master/arch_excv.gif" alt="Archaeological Excavation" width=180>
+
 ### Diverse
 The videos have been collected from a wide range of countries and sources. This is important as some actions, for example greeting, are performed differently in different cultures. Other actions, like news broadcasts, can have different text depending on the country. 
 
