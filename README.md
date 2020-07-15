@@ -23,3 +23,10 @@ The AViD dataset consists of 887 activity classes, capturing similiar actions to
 The annotations are provided in this repository, in the [dataset](https://github.com/piergiaj/AViD/tree/master/dataset) directory. This contains the [full dataset](https://github.com/piergiaj/AViD/blob/master/dataset/avid_full.json) with labels and weak tags as well as classification-only [train](https://github.com/piergiaj/AViD/blob/master/dataset/avid_train.json) and [validation](https://github.com/piergiaj/AViD/blob/master/dataset/avid_val.json) sets.
 
 The videos can be downloaded. [AViD_small.tar.gz](https://drive.google.com/file/d/1lPfYCgm9t9YRBjllY_I02YLdFK7OEEGL/view?usp=sharing) (205 GB) contains all the videos resized so that the largest side is 256 pixels. [AViD_full.tar.gz](https://drive.google.com/file/d/1jsn0J6yRakfmvYcT1mZrFPdrp_nJI7wH/view?usp=sharing) (330 GB) contains all the video are a max of 360p resolution.
+
+Alternative downloads:
+[AViD_small_part1](https://indiana-my.sharepoint.com/:u:/g/personal/ajpiergi_iu_edu/EQJy9LbYiHROumzQbul9vCsBsYFyHtGIvtwnpFhjmFtIaQ?e=QRP2LR) 
+
+[AViD_small_part2](https://indiana-my.sharepoint.com/:u:/g/personal/ajpiergi_iu_edu/EQ-z8s-6c7JMlA657mP6EYQBuFKB4vzqqShuVeUsPxB5ow?e=FvZPvG) 
+
+[AViD_small_part3](https://indiana-my.sharepoint.com/:u:/g/personal/ajpiergi_iu_edu/Ea-WGKwTTzhNr4wTl3LhaHABQZ1TwptVCq_f_3QSuGoK1w?e=vRS5Zo)
