@@ -25,7 +25,7 @@ The annotations are provided in this repository, in the [dataset](https://github
 The videos can be downloaded. [AViD_small.tar.gz](https://drive.google.com/file/d/1lPfYCgm9t9YRBjllY_I02YLdFK7OEEGL/view?usp=sharing) (205 GB) contains all the videos resized so that the largest side is 256 pixels. [AViD_full.tar.gz](https://drive.google.com/file/d/1jsn0J6yRakfmvYcT1mZrFPdrp_nJI7wH/view?usp=sharing) (330 GB) contains all the video are a max of 360p resolution.
 
 Alternative downloads:
-[AVID_snall.tar.gz](https://aviddataset.blob.core.windows.net/avid/avid_small.tar.gz)
+[AVID_small.tar.gz](https://aviddataset.blob.core.windows.net/avid/avid_small.tar.gz)
 
 OR 
 [AViD_small_part1](https://indiana-my.sharepoint.com/:u:/g/personal/ajpiergi_iu_edu/EQJy9LbYiHROumzQbul9vCsBsYFyHtGIvtwnpFhjmFtIaQ?e=QRP2LR) 
