@@ -17,7 +17,10 @@ The videos have been collected from a wide range of countries and sources. This 
 
 
 ## Classes
-The AViD dataset consists of 887 activity classes, capturing similiar actions to those in Kinetics, plus some additional actions such as talking, explosion, boating, etc. More details on the classes and hierarchy of actions will be described in the paper.
+The AViD dataset consists of 887 activity classes, capturing similiar actions to those in Kinetics, plus some additional actions such as talking, explosion, boating, etc. The classes follow a long-tailed distribution. More details on the classes and hierarchy of actions are described in the paper.
+
+<img src="https://github.com/piergiaj/AViD/raw/master/longtail.png" width="25%">
+
 
 # Baselines
 
