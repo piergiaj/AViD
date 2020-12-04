@@ -13,6 +13,8 @@ All the faces in the videos have been blurred so that no person can be identifie
 ### Diverse
 The videos have been collected from a wide range of countries and sources. This is important as some actions, for example greeting, are performed differently in different cultures. Other actions, like news broadcasts, can have different text depending on the country.  We find the model is unable to recognize videos from different countries without diverse training data (Tables 3, 4 and 5 in the paper).
 
+<img src="https://github.com/piergiaj/AViD/raw/master/geographic.png" width="40%">
+
 
 ## Classes
 The AViD dataset consists of 887 activity classes, capturing similiar actions to those in Kinetics, plus some additional actions such as talking, explosion, boating, etc. More details on the classes and hierarchy of actions will be described in the paper.
