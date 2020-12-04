@@ -3,7 +3,10 @@
 [AViD](https://arxiv.org/abs/2007.05515) is a large-scale video dataset published at NeurIPS 2020 ([AViD NeurIPS details](https://neurips.cc/virtual/2020/public/poster_c28e5b0c9841b5ef396f9f519bf6c217.html) for video, poster and presentation information). It has 467k videos and 887 action classes. Importantly, AViD has several key attributes:
 
 ### Static
-The collected videos have a creative-commons license, allowing us to create and distribute a static dataset. Unlike other YouTube-based datasets (e.g., Kinetics), the dataset is static and easily downloadable enabling reproducible research. We further release this dataset under a flexible MIT license, unlike more restrictive video datasets (e.g., Moments-in-Time and SomethingSomething)
+The collected videos have a creative-commons license, allowing us to create and distribute a static dataset. Unlike other YouTube-based datasets (e.g., Kinetics), the dataset is static and easily downloadable enabling reproducible research. We further release this dataset under a flexible MIT license, unlike more restrictive video datasets (e.g., Moments-in-Time and SomethingSomething). The dataset has similar size to the other standard video datasets.
+
+<img src="https://github.com/piergiaj/AViD/raw/master/datasetsize.png" width="25%">
+
 
 ### Anonymized 
 All the faces in the videos have been blurred so that no person can be identified.
