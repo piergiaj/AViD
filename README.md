@@ -5,7 +5,7 @@
 ### Static
 The collected videos have a creative-commons license, allowing us to create and distribute a static dataset. Unlike other YouTube-based datasets (e.g., Kinetics), the dataset is static and easily downloadable enabling reproducible research. We further release this dataset under a flexible MIT license, unlike more restrictive video datasets (e.g., Moments-in-Time and SomethingSomething). The dataset has similar size to the other standard video datasets.
 
-<img src="https://github.com/piergiaj/AViD/raw/master/datasetsize.png" width="25%">
+<img src="https://github.com/piergiaj/AViD/raw/master/datasetsize.png" width="50%">
 
 
 ### Anonymized 
