@@ -42,7 +42,10 @@ The AViD dataset consists of 887 activity classes, capturing similiar actions to
 # Dataset
 The annotations are provided in this repository, in the [dataset](https://github.com/piergiaj/AViD/tree/master/dataset) directory. This contains the [full dataset](https://github.com/piergiaj/AViD/blob/master/dataset/avid_full.json) with labels and weak tags as well as classification-only [train](https://github.com/piergiaj/AViD/blob/master/dataset/avid_train.json) and [validation](https://github.com/piergiaj/AViD/blob/master/dataset/avid_val.json) sets.
 
-The videos can be downloaded. Please fill out the [form](https://forms.gle/t5PSx2aUvQCRUZCi8) to get a link.
+The videos can be downloaded. 
+https://vision.cs.stonybrook.edu/~mryoo/avid/avid.tar.gz
+MD5 sum is available at
+https://vision.cs.stonybrook.edu/~mryoo/avid/avid.tar.gz.md5
 
 
 # Paper
